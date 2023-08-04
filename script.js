@@ -15,7 +15,7 @@ function any() {
     img.setAttribute('src', './assets/avatar-light.png')
 
 } else {
-img.setAttribute('src','./assets/Avatar.png')
+img.setAttribute('src','./assets/avatar.png1')
 
 
  
