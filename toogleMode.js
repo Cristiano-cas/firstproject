@@ -1,0 +1,3 @@
+function toogleMode() {
+  alert("oi")
+}
